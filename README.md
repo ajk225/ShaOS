@@ -1,0 +1,2 @@
+# ShaOS
+Following OSDev.org
